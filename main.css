@@ -1,0 +1,58 @@
+body{
+	margin-left: 10px auto;
+}
+#container{
+	border: 1px solid gray;
+	border-radius: 5px;
+}
+header img{
+	height: 320px;
+	width:250px;
+	position: relative;
+	border-radius: 10px;
+	float: right;
+	margin-right: 100px;
+}
+header h1{
+	font-size: 4em;
+	text-align: center;
+	color: blue;
+	background-color: aqua;
+	width: 60%;
+	border-radius: 5px;
+}
+.blue{
+	color: blue;
+}
+#generalije{
+	position: relative;
+	width: 60%;
+	margin-top: 50px;
+}
+h2{
+	font-size: 30px;
+	margin-top: 100px;
+	background-color: rgb(182, 166, 166);
+	width: 32%;
+	border-radius: 5px;
+}
+h3{
+	font-size: 22px;
+}
+table{
+	width: 100%;
+}
+p, li, td{
+	font-size: 19px;
+	}
+.sredina{
+	text-align: center;
+	position: relative;
+	right: 140px;
+	}
+.desno{
+	text-align: right;
+}
+.hr{
+	width: 100%;
+}
